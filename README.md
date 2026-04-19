@@ -6,5 +6,5 @@ lưu bài thực hành, bài tập
 
 \## Bài 07
 
-!\[Bài 07](images/baith07.png)
+!\[bài 07](images/baith07.png)
 
