@@ -2,5 +2,9 @@
 
 lưu bài thực hành, bài tập
 
--test clone
+\-test clone
+
+\## Bài 07
+
+!\[Bài 07](images/baith07.png)
 
