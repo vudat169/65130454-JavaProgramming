@@ -8,5 +8,5 @@ lưu bài thực hành, bài tập
 
 
 
-!\[bài 07](images/baith07.png)
+!\[bài 07](images/baith07.PNG)
 
